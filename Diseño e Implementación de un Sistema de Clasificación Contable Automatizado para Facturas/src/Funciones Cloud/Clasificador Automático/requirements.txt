@@ -1,9 +1,0 @@
-fuzzywuzzy[python-Levenshtein]
-google-cloud-firestore
-google-cloud-storage
-scikit-learn
-Flask==2.3.3
-voluptuous
-joblib
-numpy
-nltk==3.8.1
