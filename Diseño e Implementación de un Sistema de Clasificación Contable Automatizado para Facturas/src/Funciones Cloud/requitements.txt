@@ -1,0 +1,13 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sklearn
+xgboost
+lightgbm
+flask
+joblib
+voluptuous
+openai
